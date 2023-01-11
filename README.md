@@ -1,3 +1,5 @@
-# invoice-generator
+# invoice-generator React app
 https://invoice-generator-by-abhay.netlify.app/
-An Invoice creator project built with React. Add itemized items, configure quantity, prices, tax rates and discounts. Download Invoice as PDFs to your device. Uses jspdf-react to capture the data from the modal and covert it from canvas -> pdf.
+
+An Invoice creator project built with React,
+Add itemized items, configure quantity, prices, tax rates and discounts. Download Invoice as PDFs to your device. Uses jspdf-react to capture the data from the modal and covert it from canvas -> pdf.
